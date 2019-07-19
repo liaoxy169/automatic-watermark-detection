@@ -1,0 +1,11 @@
+
+
+closed-form-matting/
+*.idea/
+test/
+Dekel_*
+*.pyc
+*.pdf
+*.bmp
+*.ipynb
+*.npc
